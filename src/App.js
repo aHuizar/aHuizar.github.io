@@ -14,9 +14,7 @@ function App() {
       <main>
         <MyRoutes />
       </main>
-      <footer>
-        <Footer />
-      </footer>
+      <Footer />
     </Router>
   );
 }

@@ -1,11 +1,9 @@
-.main {
-  margin-bottom: 4.5em; /* Margin bottom by footer height */
-}
-
 .footer {
-  position: absolute;
+  position: fixed;
+  left: 0;
   bottom: 0;
   width: 100%;
+  text-align: center;
   height: 4.5em; /* Set the fixed height of the footer here */
   line-height: 4.5em; /* Vertically center the text there */
 }

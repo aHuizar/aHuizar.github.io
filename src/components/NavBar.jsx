@@ -53,24 +53,25 @@ function NavBar() {
               aria-expanded="false"
               href="/"
             >
-              Dropdown
+              Contact
             </a>
             <div className="dropdown-menu" aria-labelledby="navbarDropdown">
               <a className="dropdown-item" href="/">
-                Action
-              </a>
-              <a className="dropdown-item" href="/">
-                Another action
+                Email
               </a>
               <div className="dropdown-divider"></div>
               <a className="dropdown-item" href="/">
-                Something else here
+                Facebook
+              </a>
+              <div className="dropdown-divider"></div>
+              <a className="dropdown-item" href="/">
+                LinkedIn
               </a>
             </div>
           </li>
           <li className="nav-item">
             <a className="nav-link" href="/">
-              Disabled
+              Career Interest
             </a>
           </li>
         </ul>

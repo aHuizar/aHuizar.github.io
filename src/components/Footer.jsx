@@ -5,10 +5,10 @@ function Footer() {
       <div className="container-fluid">
         <div className="row justify-content-around ">
           <div className="col-4 text-center">
-            <strong>Contact</strong>
+            <strong>Resume</strong>
           </div>
           <div className="col-4 text-center ">
-            <strong>Stuff</strong>
+            <strong>Transcript</strong>
           </div>
           <div className="col-4 text-center ">
             <strong>More Stuff</strong>
