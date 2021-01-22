@@ -1,7 +1,7 @@
 import React from "react";
 function ThreeColumnPage(props) {
   return (
-    <div className="container-fluid text-light ">
+    <div className="container-fluid text-light mb-6">
       <div className="row justify-content-center ">
         <div className="col text-center">
           <h1 className="font-weight-huge">{props.title}</h1>

@@ -6,18 +6,34 @@ function Projects() {
       title="Projects"
       column1={
         <React.Fragment>
-          <h4>C1</h4>
+          <h4>Restaurant Website Demo </h4>
+          <p>
+            I based this website off of a local restaurant called Umi Sushi &
+            Sake. As such, the menu and theme of the actual restaurant are
+            reflected in the website. The website was built using ReactJS. This
+            website is only for demonstration purposes only, so there is no
+            backend implementation to handle payment processing, user accounts,
+            or form submissions.
+          </p>
+          <a
+            className="btn btn-primary"
+            href="https://ahuizar.github.io/umi_sushi_demo"
+          >
+            Check it out here
+          </a>
         </React.Fragment>
       }
       column2={
         <React.Fragment>
-          <h4>C2</h4>
+          <h4>E-Commerce Website Demo</h4>
           <hr className="h-line"></hr>
+          <p>Coming Soon</p>
         </React.Fragment>
       }
       column3={
         <React.Fragment>
-          <h4>C3</h4>
+          <h4>Class Project</h4>
+          <p>Coming Soon</p>
         </React.Fragment>
       }
     />
