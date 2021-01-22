@@ -10,8 +10,8 @@ function AboutMe() {
         <React.Fragment>
           <img alt="Profile" className="img-fluid" src={AboutMePic} />
           <p className="font-italic">
-            I excel at UI design, front end development, branding, and art
-            direction. I am always excited to work on a project.
+            I excel at UI design, front end development, and time management. I
+            am always excited to work on a project.
           </p>
         </React.Fragment>
       }
