@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fade5c5f.chunk.css",
+    "main.js": "/static/js/main.a5a2b6a5.chunk.js",
+    "main.js.map": "/static/js/main.a5a2b6a5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9af79aaa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9af79aaa.js.map",
+    "static/js/2.99c7fb05.chunk.js": "/static/js/2.99c7fb05.chunk.js",
+    "static/js/2.99c7fb05.chunk.js.map": "/static/js/2.99c7fb05.chunk.js.map",
+    "static/js/3.8e462516.chunk.js": "/static/js/3.8e462516.chunk.js",
+    "static/js/3.8e462516.chunk.js.map": "/static/js/3.8e462516.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.fade5c5f.chunk.css.map": "/static/css/main.fade5c5f.chunk.css.map",
+    "static/js/2.99c7fb05.chunk.js.LICENSE.txt": "/static/js/2.99c7fb05.chunk.js.LICENSE.txt",
+    "static/media/AboutMePic.f43a87ec.jpg": "/static/media/AboutMePic.f43a87ec.jpg",
+    "static/media/_theme.css": "/static/media/background.7c6b1f26.jpg",
+    "static/media/facebookLogo.1652ba9c.png": "/static/media/facebookLogo.1652ba9c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9af79aaa.js",
+    "static/js/2.99c7fb05.chunk.js",
+    "static/css/main.fade5c5f.chunk.css",
+    "static/js/main.a5a2b6a5.chunk.js"
+  ]
+}
