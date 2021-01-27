@@ -9,7 +9,7 @@ function ThreeColumnPage(props) {
       </div>
       <div className="row justify-content-around ">
         <div className="col-4 text-center">{props.column1}</div>
-        <div className="col-4 text-center">{props.column2}</div>
+        <div className="col-4 text-center vll vlr">{props.column2}</div>
         <div className="col-4 text-center">{props.column3}</div>
       </div>
     </div>

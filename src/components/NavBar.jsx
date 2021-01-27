@@ -5,7 +5,7 @@ function NavBar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-warning bg-warning">
       <Link to="/" className="navbar-brand">
-        My Logo Here
+        Angel Huizar
       </Link>
       <button
         className="navbar-toggler border border-light"
@@ -56,26 +56,25 @@ function NavBar() {
               Contact
             </a>
             <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a className="dropdown-item" href="/">
+              <a
+                className="dropdown-item"
+                href="mailto:huizara550246@gmail.com"
+              >
                 Email
               </a>
               <div className="dropdown-divider"></div>
-              <a className="dropdown-item" href="/">
-                Facebook
-              </a>
-              <div className="dropdown-divider"></div>
-              <a className="dropdown-item" href="/">
+              <a
+                className="dropdown-item"
+                rel="noreferrer"
+                href="https://www.linkedin.com/in/angel-huizar-a88883201/"
+                target="_blank"
+              >
                 LinkedIn
               </a>
             </div>
           </li>
-          <li className="nav-item">
-            <a className="nav-link" href="/">
-              Career Interest
-            </a>
-          </li>
         </ul>
-        <form className="form-inline my-2 my-lg-0">
+        {/* <form className="form-inline my-2 my-lg-0">
           <input
             className="form-control mr-sm-2"
             type="search"
@@ -104,22 +103,10 @@ function NavBar() {
               />
             </svg>
           </button>
-        </form>
+        </form> */}
       </div>
     </nav>
   );
 }
 
 export default NavBar;
-
-/*
-<a
-              href="#/"
-              className={"nav-link" + (location === "#/" ? " active" : "")}
-              onClick={() => handleNavClick("#/")}
-              data-toggle="collapse"
-              data-target=".navbar-collapse.show"
-            >
-              About Me
-            </a>
-*/
