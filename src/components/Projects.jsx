@@ -5,7 +5,7 @@ function Projects() {
     <ThreeColumnPage
       title="Projects"
       column2={
-        <React.Fragment>
+        <div className=" mt-4 mb-3">
           <h4>Restaurant Website Demo </h4>
           <hr className="h-line"></hr>
           <p>
@@ -24,20 +24,37 @@ function Projects() {
           >
             Check it out here
           </a>
-        </React.Fragment>
+        </div>
       }
       column1={
-        <React.Fragment>
+        <div className=" mt-4 mb-3">
           <h4>E-Commerce Website Demo</h4>
-
+          <hr className="h-line"></hr>
           <p>Coming Soon</p>
-        </React.Fragment>
+        </div>
       }
       column3={
-        <React.Fragment>
+        <div className=" mt-4 mb-3">
           <h4>Class Project</h4>
-          <p>Coming Soon</p>
-        </React.Fragment>
+          <hr className="h-line"></hr>
+          <p>
+            In the course ECE458: Engineering Software for Maintainability, I
+            had to design a web app to help a hypothetical power company keep
+            track of their models and instruments. This company had been
+            managing their instruments with Excel spreadsheets, but this system
+            proved to be difficult to manage. Thus, the company hired my team
+            and I to design their web app. Over the course of the semester, the
+            requirements and our software will evolve.
+          </p>
+          <a
+            rel="noreferrer"
+            className="btn btn-primary"
+            href="https://hpt.hopto.org"
+            target="_blank"
+          >
+            Check it out here
+          </a>
+        </div>
       }
     />
   );

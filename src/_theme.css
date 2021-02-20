@@ -1,5 +1,5 @@
 .mb-6 {
-  margin-bottom: 15%;
+  margin-bottom: 24%;
 }
 
 .vll {
@@ -12,14 +12,14 @@
   height: 100%;
 }
 
-.footer {
+footer {
   position: fixed;
   left: 0;
-  bottom: 0;
+  bottom: -10px;
   width: 100%;
   text-align: center;
-  height: 4.5em; /* Set the fixed height of the footer here */
-  line-height: 4.5em; /* Vertically center the text there */
+  height: 4em; /* Set the fixed height of the footer here */
+  line-height: 4em; /* Vertically center the text there */
 }
 
 .font-weight-huge {
