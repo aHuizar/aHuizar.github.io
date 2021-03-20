@@ -37,11 +37,11 @@ function AboutMe() {
             <li
               className="list-group-item text-dark" // eslint-disable-next-line
             >
-              Javascript: 1 year
+              Javascript: 3 years
             </li>
-            <li className="list-group-item text-dark">ReactJS: 1 year</li>
-            <li className="list-group-item text-dark">C: 2 years</li>
-            <li className="list-group-item text-dark">Python: 1 year</li>
+            <li className="list-group-item text-dark">ReactJS: 1.5 years</li>
+            <li className="list-group-item text-dark">C: 3 years</li>
+            <li className="list-group-item text-dark">Python: 1.5 years</li>
           </ul>
         </div>
       }
