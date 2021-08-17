@@ -44,12 +44,12 @@ function Projects() {
             managing their instruments with Excel spreadsheets, but this system
             proved to be difficult to manage. Thus, the company hired my team
             and I to design their web app. Over the course of the semester, the
-            requirements and our software will evolve.
+            requirements and our software have evolved.
           </p>
           <a
             rel="noreferrer"
             className="btn btn-primary"
-            href="https://hpt.hopto.org"
+            href="https://github.com/Duc-Tran-98/ECE458_Project"
             target="_blank"
           >
             Check it out here
