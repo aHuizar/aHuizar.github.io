@@ -21,7 +21,7 @@ function AboutMe() {
           <hr className="h-line"></hr>
           <p>
             I am a programmer, web designer, and front end developer from
-            Bakersfield, California who loves coding. I will graduate with my
+            Bakersfield, California who loves coding. I graduated with my
             Bachelor of Science in Electrical and Computer Engineering and
             Computer Science from Duke University in May of 2021. I am always
             eager to learn new things!

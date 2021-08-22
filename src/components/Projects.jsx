@@ -30,7 +30,21 @@ function Projects() {
         <div className=" mt-4 mb-3">
           <h4>E-Commerce Website Demo</h4>
           <hr className="h-line"></hr>
-          <p>Coming Soon</p>
+          <p>
+            This demo is meant to show off my full stack capabilities. The whole
+            app is built using NodeJS. The frontend is using React and Apollo
+            Client while the backend is using an Express Server and Apollo Server as
+            Express middleware. The app is deployed through Heroku. It's still a
+            work in progress, and is only inteded for demonstration purposes.
+          </p>
+          <a
+            rel="noreferrer"
+            className="btn btn-primary"
+            href="https://my-ecommerce-demo.herokuapp.com/products"
+            target="_blank"
+          >
+            Check it out here
+          </a>
         </div>
       }
       column3={
@@ -43,8 +57,7 @@ function Projects() {
             track of their models and instruments. This company had been
             managing their instruments with Excel spreadsheets, but this system
             proved to be difficult to manage. Thus, the company hired my team
-            and I to design their web app. Over the course of the semester, the
-            requirements and our software have evolved.
+            and I to design their web app.
           </p>
           <a
             rel="noreferrer"

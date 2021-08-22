@@ -2,8 +2,8 @@ import React from "react";
 function ThreeColumnPage(props) {
   return (
     <div
-      className="container text-dark mb-5 bg-light rounded mt-4"
-      style={{ overflowY: "auto" }}
+      className="container text-dark mb-5 bg-light rounded my-4"
+      style={{ overflowY: "auto", height: "78vh" }}
     >
       <div className="row justify-content-center ">
         <div className="col text-center">
