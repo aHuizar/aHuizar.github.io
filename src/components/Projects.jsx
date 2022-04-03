@@ -40,7 +40,7 @@ function Projects() {
           <a
             rel="noreferrer"
             className="btn btn-primary"
-            href="https://my-ecommerce-demo.herokuapp.com/products"
+            href="https://my-ecommerce-demo.herokuapp.com/products?page=1"
             target="_blank"
           >
             Check it out here

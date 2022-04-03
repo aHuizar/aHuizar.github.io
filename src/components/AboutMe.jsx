@@ -26,6 +26,11 @@ function AboutMe() {
             Computer Science from Duke University in May of 2021. I am always
             eager to learn new things!
           </p>
+          <p>
+            Currently, I am working as an Applications Engineer for Kern County.
+            I have been working there since July 2021. I am also working on
+            getting my AWS Certified Solutions Architect - Associate certification.
+          </p>
         </div>
       }
       column3={

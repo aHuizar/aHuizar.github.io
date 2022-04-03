@@ -1,4 +1,5 @@
 import React from "react";
+import Angel_Huizar_Resume from "../pdfs/Angel_Huizar_Resume.pdf";
 import { NavLink, Link } from "react-router-dom";
 
 function NavBar() {
@@ -42,6 +43,15 @@ function NavBar() {
             <NavLink to="/projects" className="nav-link" type="button">
               Projects
             </NavLink>
+          </li>
+          <li className="nav-item">
+            <a
+              href={Angel_Huizar_Resume}
+              className="nav-link"
+              download="Angel Huizar Resume"
+            >
+              Resume
+            </a>
           </li>
           <li className="nav-item dropdown">
             <a

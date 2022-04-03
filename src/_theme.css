@@ -33,6 +33,7 @@ footer {
 .active {
   background-color: black;
   color: white;
+  border-radius: 20%;
 }
 
 .dot-big {
