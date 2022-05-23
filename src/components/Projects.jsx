@@ -33,9 +33,10 @@ function Projects() {
           <p>
             This demo is meant to show off my full stack capabilities. The whole
             app is built using NodeJS. The frontend is using React and Apollo
-            Client while the backend is using an Express Server and Apollo Server as
-            Express middleware. The app is deployed through Heroku. It's still a
-            work in progress, and is only inteded for demonstration purposes.
+            Client while the backend is using an Express Server and Apollo
+            Server as Express middleware. The app is deployed through Heroku.
+            It's still a work in progress, and is only inteded for demonstration
+            purposes.
           </p>
           <a
             rel="noreferrer"
@@ -57,12 +58,12 @@ function Projects() {
             track of their models and instruments. This company had been
             managing their instruments with Excel spreadsheets, but this system
             proved to be difficult to manage. Thus, the company hired my team
-            and I to design their web app.
+            and I to design their web app from the ground up.
           </p>
           <a
             rel="noreferrer"
             className="btn btn-primary"
-            href="https://github.com/Duc-Tran-98/ECE458_Project"
+            href="https://ece458project.herokuapp.com/login-as-test"
             target="_blank"
           >
             Check it out here
