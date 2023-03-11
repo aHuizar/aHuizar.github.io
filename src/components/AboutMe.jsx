@@ -46,7 +46,8 @@ function AboutMe() {
             </li>
             <li className="list-group-item text-dark">ReactJS: 2 years</li>
             <li className="list-group-item text-dark">C: 3 years</li>
-            <li className="list-group-item text-dark">Python: 1.5 years</li>
+            <li className="list-group-item text-dark">Python: 2 years</li>
+            <li className="list-group-item text-dark">SQL: 2 years</li>
           </ul>
         </div>
       }
